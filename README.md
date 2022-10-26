@@ -24,6 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/CQ4W6aNtrpQuNvpWXYXAQh/NLW-Copa-Card-(Copy)/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+<br>
+<br>
+
 <p align="center">
 Feito com ♥ by Gabriel Rossi :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)  
 </p>
